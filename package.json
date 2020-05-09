@@ -20,6 +20,6 @@
     "@deck.gl/aggregation-layers": "^7.3.3",
     "@deck.gl/core": "^7.3.3",
     "@deck.gl/google-maps": "^7.3.3",
-    "@deck.gl/layers": "^7.3.3"
+    "@deck.gl/layers": "^7.3.15"
   }
 }
